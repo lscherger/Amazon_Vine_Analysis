@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-The purpose of this analyis was to analyze data from a particular dataset, in this case Health Products, to understand whether Vine users have a potential bias to rate their products more favorably than regular non-Vine users. To do this, I had to perform the ETL process to extract the dataset from an S3 bucket, transform the data using PySpark, connect to an AWS RDS instance, and load the transformed data into pgAdmin. This project allowed me to practice using the ETL process on big data, with heavy involvement in Amazon Web Services to store and connect the data.
+In this project, I analyzed a dataset from Health Products to understand whether Vine users have a potential bias to rate their products more favorably than regular non-Vine users. To do this, I used the ETL process to extract the dataset from an S3 bucket, transform the data using PySpark, connect to an AWS RDS instance, and load the transformed data into pgAdmin. This project allowed me to practice using the ETL process on big data, with heavy involvement in Amazon Web Services to store and connect the data.
 
 
 ## Results: 
